@@ -102,7 +102,7 @@ public class reloj extends javax.swing.JFrame implements Runnable{
                ){
                    jLabel1.setText("Despierta");
                }else{
-                   
+                   jLabel1.setText("Sigue durmiendo");
                }
            }catch(InterruptedException e){}
            
