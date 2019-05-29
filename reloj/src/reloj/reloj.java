@@ -10,7 +10,7 @@ public class reloj extends javax.swing.JFrame implements Runnable{
     
     
     
-    public reloj() {
+    public reloj() {            //COMENTARIO 1 
         initComponents();
         h1 = new Thread(this);
         h1.start();
