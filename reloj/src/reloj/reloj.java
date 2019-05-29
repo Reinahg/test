@@ -110,7 +110,7 @@ public class reloj extends javax.swing.JFrame implements Runnable{
     
     }
 
-    private void calcula() {
+    private void calcula() {  //   COMENTARIO 333333333
        Calendar calendario = new GregorianCalendar();
        Date fechaHoraActual = new Date();
        
