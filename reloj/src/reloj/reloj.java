@@ -24,7 +24,7 @@ public class reloj extends javax.swing.JFrame implements Runnable{
 
         jPanel1 = new javax.swing.JPanel();
         lblReloj = new javax.swing.JLabel();
-        jLabel1 = new javax.swing.JLabel();
+        jLabel1 = new javax.swing.JLabel();             //Comentario para la prueba numero 2
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
